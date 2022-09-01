@@ -1,0 +1,91 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=061fd435_002Db29d_002D4b76_002D9eb8_002D2220e4ff0433/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetSetValuesInVirualArray" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12c2c093_002D987a_002D48a5_002D9400_002Dc4c42417b65b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #12" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=18429707_002D245a_002D4e61_002D847a_002Dacd85f0ebeb4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1a1f1f37_002Db366_002D4637_002Dba19_002D46c7c8246bca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #13" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26481574_002D4b5a_002D4978_002Db06f_002Dcfc356c59ecd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=467e2a53_002D9331_002D4752_002D952a_002Ddc7dfc336cca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=47cb2ec2_002D9cda_002D43f5_002D91ec_002D3b0216445102/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=606e0f12_002D6c8c_002D43b5_002D9b52_002D85c889756f62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ae6e4a5_002Dedd6_002D4fb5_002Da15d_002D7afc6ec497a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #11" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91106a95_002D9a58_002D4475_002D9e73_002Dda4950294bc5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=95dc1d63_002D2711_002D44e1_002D9527_002Ddfc8caf60c7d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9bc25dde_002Dfbfd_002D44c4_002Dbb65_002D48532cb3452c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #14" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a36510bd_002D8772_002D482a_002Da89f_002Dae0e63e4e12f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be9bc071_002D9693_002D47e7_002Da766_002D8b7d29035c7e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ce89a5e0_002D01cf_002D442a_002D8225_002Dc8cb12426da7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=de2c7b01_002D4e4a_002D43d5_002D9681_002D5c741ce5ea57/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #10" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e001fa89_002D2eac_002D4bf8_002Daefa_002D5bf570038c68/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ByteConvert #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests.ByteConvert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e8d33c1c_002D7383_002D4520_002D91a6_002D4e3eadd36b7b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::593DB0A8-FDC6-4CEE-A796-8C07047D77A9::net6.0::Virtual_Array_UTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
