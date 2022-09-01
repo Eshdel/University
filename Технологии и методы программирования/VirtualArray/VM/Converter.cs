@@ -25,6 +25,7 @@ public class Converter
                 byteIndex++;
             }
         }
+        
         return bytes;
     }
     
