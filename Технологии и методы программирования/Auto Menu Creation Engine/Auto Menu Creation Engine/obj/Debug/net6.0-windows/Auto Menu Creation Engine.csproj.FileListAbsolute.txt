@@ -1,0 +1,15 @@
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\bin\Debug\net6.0-windows\Auto Menu Creation Engine.exe
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\bin\Debug\net6.0-windows\Auto Menu Creation Engine.deps.json
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\bin\Debug\net6.0-windows\Auto Menu Creation Engine.runtimeconfig.json
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\bin\Debug\net6.0-windows\Auto Menu Creation Engine.dll
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\bin\Debug\net6.0-windows\Auto Menu Creation Engine.pdb
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\Auto Menu Creation Engine.csproj.AssemblyReference.cache
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\Auto Menu Creation Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\Auto Menu Creation Engine.AssemblyInfoInputs.cache
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\Auto Menu Creation Engine.AssemblyInfo.cs
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\Auto Menu Creation Engine.csproj.CoreCompileInputs.cache
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\Auto Menu Creation Engine.dll
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\refint\Auto Menu Creation Engine.dll
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\Auto Menu Creation Engine.pdb
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\Auto Menu Creation Engine.genruntimeconfig.cache
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine\Auto Menu Creation Engine\obj\Debug\net6.0-windows\ref\Auto Menu Creation Engine.dll
