@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Auto Menu Creation Engine/1.0.0": {
+        "dependencies": {
+          "AmceLibrary": "1.0.0"
+        },
         "runtime": {
           "Auto Menu Creation Engine.dll": {}
+        }
+      },
+      "AmceLibrary/1.0.0": {
+        "runtime": {
+          "AmceLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Auto Menu Creation Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AmceLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

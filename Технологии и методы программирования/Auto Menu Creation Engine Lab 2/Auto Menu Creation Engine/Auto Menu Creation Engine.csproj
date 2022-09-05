@@ -11,8 +11,12 @@
 
     <ItemGroup>
       <Compile Update="Menu.cs">
-        <DependentUpon>MenuCreator.cs</DependentUpon>
+        <DependentUpon>Program.cs</DependentUpon>
       </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\AmceLibrary\AmceLibrary.csproj" />
     </ItemGroup>
 
 </Project>

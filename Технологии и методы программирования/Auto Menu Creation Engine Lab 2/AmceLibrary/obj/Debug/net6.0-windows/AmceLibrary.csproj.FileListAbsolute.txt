@@ -1,0 +1,12 @@
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\bin\Debug\net6.0-windows\AmceLibrary.deps.json
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\bin\Debug\net6.0-windows\AmceLibrary.dll
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\bin\Debug\net6.0-windows\AmceLibrary.pdb
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\AmceLibrary.csproj.AssemblyReference.cache
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\AmceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\AmceLibrary.AssemblyInfoInputs.cache
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\AmceLibrary.AssemblyInfo.cs
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\AmceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\AmceLibrary.dll
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\refint\AmceLibrary.dll
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\AmceLibrary.pdb
+C:\Users\PDQ\RiderProjects\University\Технологии и методы программирования\Auto Menu Creation Engine Lab 2\AmceLibrary\obj\Debug\net6.0-windows\ref\AmceLibrary.dll

@@ -1,4 +1,5 @@
 using System.Text;
+using AmceLibrary;
 
 namespace Auto_Menu_Creation_Engine;
 
@@ -24,7 +25,8 @@ public partial class Menu : Form
                 "1 Города 0 Towns",
                 "1 Должности 0 Posts",
                 "0 Окно 0 Window",
-                "0 Справка 0 Yelp"};
+                "0 Справка 0 Yelp"
+                };
             
             var stream = new StreamWriter(new FileStream("menuPreset.amce", FileMode.Create, FileAccess.Write), Encoding.UTF8);
             
