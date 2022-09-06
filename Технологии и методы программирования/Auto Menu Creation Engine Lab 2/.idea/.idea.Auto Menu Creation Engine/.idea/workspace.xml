@@ -11,15 +11,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/223ae0dc8405464eab0c28109486f5452000/a6/7b5547b3/MenuCreator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52cd844476ec4091838909409447be01a23688/7f/3e626f56/EventHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/9300c5e95ef147aebd94c5b41dcb01d81633d0/88/e4f55555/System.Reactive.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/9300c5e95ef147aebd94c5b41dcb01d81633d0/88/e4f55555/System.Reactive.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3d5457141a54ab367fc517a68c1b5e2fea3fbda94212a72d92cf848c33bcbfc/ToolStripItemCollection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4a113043e0eb372cb45426136e3f219582dbd468acbe6d8143dfcf94f31cd4e/ToolStripItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a842df8e44f05b1c16c9274ea5e2863515c5ddbcaaa81171bb2ca72834a/Assembly.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b9ec86353372ef6d4b862ec3552934310c2b674b5b263f7ee508468e028ab84/EventArgs.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AmceLibrary/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AmceLibrary/MenuCreator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AmceLibrary/MenuItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AmceLibrary/Status.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/eaa42119657a7b9e904f2e9a131e475d217189684a87e392967f3585db6731cb/AssemblyName.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Auto Menu Creation Engine/Menu.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Auto Menu Creation Engine/Menu.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -75,6 +74,7 @@
       <workItem from="1662222136328" duration="3619000" />
       <workItem from="1662304184895" duration="3623000" />
       <workItem from="1662373490737" duration="1817000" />
+      <workItem from="1662389298486" duration="5227000" />
     </task>
     <servers />
   </component>

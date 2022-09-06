@@ -19,4 +19,10 @@
       <ProjectReference Include="..\AmceLibrary\AmceLibrary.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Reference Include="AmceLibrary">
+        <HintPath>bin\Debug\net6.0-windows\AmceLibrary.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>

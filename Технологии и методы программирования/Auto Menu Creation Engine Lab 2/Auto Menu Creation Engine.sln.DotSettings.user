@@ -1,4 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CPDQ_005CRiderProjects_005CUniversity_005C_0422_0435_0445_043D_043E_043B_043E_0433_0438_0438_0020_0438_0020_043C_0435_0442_043E_0434_044B_0020_043F_0440_043E_0433_0440_0430_043C_043C_0438_0440_043E_0432_0430_043D_0438_044F_005CAuto_0020Menu_0020Creation_0020Engine_0020Lab_00202_005CAuto_0020Menu_0020Creation_0020Engine_005Cbin_005CDebug_005Cnet6_002E0_002Dwindows_005CAmceLibrary_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="C:\Users\PDQ\.nuget\packages\system.reactive\5.0.0\lib\net5.0\System.Reactive.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

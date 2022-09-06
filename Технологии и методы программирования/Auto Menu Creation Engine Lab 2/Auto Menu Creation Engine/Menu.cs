@@ -1,5 +1,6 @@
 using System.Text;
 using AmceLibrary;
+using System.Reflection;
 
 namespace Auto_Menu_Creation_Engine;
 
@@ -9,7 +10,8 @@ public partial class Menu : Form
     {
         InitializeComponent();
         CreatePresetFile();
-        CreateMenu();
+        //CreateMenu();
+        InitMenu();
     }
 
     public static void CreatePresetFile()
@@ -48,5 +50,22 @@ public partial class Menu : Form
             var menuCreator = new MenuCreator(openFileDialog.FileName);
             menuStrip.Items.AddRange(menuCreator.MenuItems);
         }
+    }
+
+    public void InitMenu()
+    {
+        OpenFileDialog  openFileDialog = new OpenFileDialog();
+        openFileDialog.Filter = "amce files (*.amce)|*.amce|All files (*.*)|*.*";
+        openFileDialog.RestoreDirectory = true;
+        
+        if (openFileDialog.ShowDialog() == DialogResult.OK)
+        {
+            Assembly a = Assembly.LoadFile($"{Directory.GetCurrentDirectory()}/AmceLibrary.dll");
+            Type t = a.GetType("AmceLibrary.MenuCreator");
+            Object o = t.GetConstructors()[0].Invoke(new object?[]{openFileDialog.FileName});
+            menuStrip.Items.AddRange((ToolStripMenuItem[]) t.GetMethod("get_MenuItems").Invoke(o, new object?[]{}));
+        }
+        
+        
     }
 }

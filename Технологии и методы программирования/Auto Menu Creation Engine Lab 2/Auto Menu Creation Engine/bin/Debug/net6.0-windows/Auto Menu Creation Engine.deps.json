@@ -8,15 +8,19 @@
     ".NETCoreApp,Version=v6.0": {
       "Auto Menu Creation Engine/1.0.0": {
         "dependencies": {
-          "AmceLibrary": "1.0.0"
+          "AmceLibrary": "1.0.0",
+          "AmceLibrary.Reference": "1.0.0.0"
         },
         "runtime": {
           "Auto Menu Creation Engine.dll": {}
         }
       },
-      "AmceLibrary/1.0.0": {
+      "AmceLibrary.Reference/1.0.0.0": {
         "runtime": {
-          "AmceLibrary.dll": {}
+          "AmceLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -27,8 +31,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AmceLibrary/1.0.0": {
-      "type": "project",
+    "AmceLibrary.Reference/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
