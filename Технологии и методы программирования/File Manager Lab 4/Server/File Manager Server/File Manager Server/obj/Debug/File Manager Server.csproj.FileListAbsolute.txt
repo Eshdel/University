@@ -1,0 +1,11 @@
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\bin\Debug\File Manager Server.exe.config
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\bin\Debug\File Manager Server.exe
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\bin\Debug\File Manager Server.pdb
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\obj\Debug\File Manager Server.csproj.AssemblyReference.cache
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\obj\Debug\File Manager Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\obj\Debug\File_Manager_Server.Properties.Resources.resources
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\obj\Debug\File Manager Server.csproj.GenerateResource.cache
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\obj\Debug\File Manager Server.csproj.CoreCompileInputs.cache
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\obj\Debug\File Manager Server.exe
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\obj\Debug\File Manager Server.pdb
+C:\Users\PDQ\source\repos\File Manager Server\File Manager Server\obj\Debug\File_Manager_Server.ServerView.resources

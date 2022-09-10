@@ -1,0 +1,11 @@
+C:\Users\PDQ\source\repos\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\PDQ\source\repos\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\PDQ\source\repos\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\PDQ\source\repos\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\Users\PDQ\source\repos\FileManager\FileManager\obj\Debug\FileManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\PDQ\source\repos\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\PDQ\source\repos\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\PDQ\source\repos\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\PDQ\source\repos\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\PDQ\source\repos\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\Users\PDQ\source\repos\FileManager\FileManager\obj\Debug\FileManager.ClientFragment.resources
